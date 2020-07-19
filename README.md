@@ -10,8 +10,8 @@ Using the sensors data provided in '/SensorData' gained via side channel to trai
 3. Get the statistical characteristic as features and the corresponding label.
 4. Distribute the train set and the test set.
 5. Choose five different algorithm to train the model and see their performances.
-  + Multi-classification
-  + SVM
-  + Random Forest
-  + Decision Tree
-  + K-nn
+    + Multi-classification
+    + SVM
+    + Random Forest
+    + Decision Tree
+    + K-nn
